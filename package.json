@@ -1,0 +1,12 @@
+{
+  "name": "xdddd-generator",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/jablpiotrek/xdddd-generator.git",
+  "author": "Piotr Jablonski <piotr.jablonski@snow.dog>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^5.9.0"
+  }
+}
