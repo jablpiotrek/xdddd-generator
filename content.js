@@ -20,4 +20,5 @@ chrome.runtime.onMessage.addListener(function(request) {
     targetInput.value = 'XDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD'
     break
   }
+  targetInput.classList.remove('xdddd-generator-extension')
 })
